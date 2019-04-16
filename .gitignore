@@ -1,0 +1,13 @@
+# vuseal styudio code 의 설정 파일은 제외한다.
+.vscode/
+bin/
+build/
+.gradle/
+
+*.zip
+*.log
+*.class
+*~
+
+
+!app.log
